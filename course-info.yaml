@@ -1,0 +1,7 @@
+type: marketplace
+title: Kotlin Advanced
+language: English
+summary: Kotlin Advanced
+programming_language: Kotlin
+content:
+  - Delegation
