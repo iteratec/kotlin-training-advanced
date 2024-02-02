@@ -1,0 +1,9 @@
+**/lesson-remote-info.yaml
+**/section-remote-info.yaml
+**/task-remote-info.yaml
+
+/build/
+/**/build/
+/.gradle/
+/.idea/
+/.coursecreator/

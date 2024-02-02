@@ -5,3 +5,6 @@ summary: Kotlin Advanced
 programming_language: Kotlin
 content:
   - Delegation
+  - Coroutines
+environment_settings:
+  jvm_language_level: JDK_1_8
