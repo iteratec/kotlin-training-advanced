@@ -6,5 +6,6 @@ programming_language: Kotlin
 content:
   - Delegation
   - Coroutines
+  - Inline
 environment_settings:
   jvm_language_level: JDK_1_8
