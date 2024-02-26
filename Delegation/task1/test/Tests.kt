@@ -1,9 +1,11 @@
-import org.junit.Assert
-import org.junit.Test
+import kotlin.test.Test
+import kotlin.test.assertTrue
+
 
 class Test {
-    @Test fun testSolution() {
+    @Test
+    fun testSolution() {
         //TODO: implement your test here
-        Assert.assertTrue("Tests not implemented for the task", false)
+        assertTrue(false, "Tests not implemented for the task")
     }
 }
