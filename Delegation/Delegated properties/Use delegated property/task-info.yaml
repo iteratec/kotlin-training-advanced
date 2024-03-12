@@ -5,6 +5,6 @@ files:
     placeholders:
       - offset: 197
         length: 171
-        placeholder_text: "var name: String"
+        placeholder_text: "   var name: String"
   - name: test/output.txt
     visible: false
