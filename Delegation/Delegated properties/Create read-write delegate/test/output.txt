@@ -1,0 +1,3 @@
+Property name has been read and has value Pikachu
+Pikachu
+Property name changed from Pikachu to Squirtle

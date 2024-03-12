@@ -1,0 +1,16 @@
+type: output
+files:
+  - name: src/Main.kt
+    visible: true
+    placeholders:
+      - offset: 144
+        length: 68
+        placeholder_text: class Pokemon
+      - offset: 297
+        length: 35
+        placeholder_text: TODO()
+      - offset: 429
+        length: 39
+        placeholder_text: TODO()
+  - name: test/output.txt
+    visible: false

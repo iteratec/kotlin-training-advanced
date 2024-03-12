@@ -1,0 +1,10 @@
+type: output
+files:
+  - name: src/Main.kt
+    visible: true
+    placeholders:
+      - offset: 197
+        length: 171
+        placeholder_text: "var name: String"
+  - name: test/output.txt
+    visible: false

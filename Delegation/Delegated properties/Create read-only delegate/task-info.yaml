@@ -1,0 +1,10 @@
+type: output
+files:
+  - name: src/Main.kt
+    visible: true
+    placeholders:
+      - offset: 366
+        length: 331
+        placeholder_text: class LazyPokemonProperty
+  - name: test/output.txt
+    visible: false
