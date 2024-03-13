@@ -86,6 +86,9 @@ val b: Nothing? = null
 var c = null
 c = "string"
 
+// Similarly, this expression will be inferred to be List<Nothing?>
+val d: List<Nothing?> = listOf(null)
+
 // Nothing is an inferred type of expressions that never return a value
-val d: Nothing = throw RuntimeException()
+val e: Nothing = throw RuntimeException()
 ```
