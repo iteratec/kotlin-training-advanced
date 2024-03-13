@@ -1,0 +1,3 @@
+Pikachu escaped!
+Pikachu caught successfully!
+Pokeball contains currently Pikachu.
