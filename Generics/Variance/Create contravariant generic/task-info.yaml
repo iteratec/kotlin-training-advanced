@@ -1,0 +1,10 @@
+type: output
+files:
+  - name: src/Main.kt
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 103
+        placeholder_text: class Pokeball
+  - name: test/output.txt
+    visible: false

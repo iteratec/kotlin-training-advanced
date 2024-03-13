@@ -8,5 +8,6 @@ content:
   - Coroutines
   - Inline
   - Delegation
+  - Generics
 environment_settings:
   jvm_language_level: JDK_1_8

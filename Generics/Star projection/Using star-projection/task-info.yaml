@@ -1,0 +1,10 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 110
+        placeholder_text: "fun isInfoComplete(/* TODO */): Boolean"
+  - name: test/Tests.kt
+    visible: false

@@ -1,0 +1,10 @@
+type: output
+files:
+  - name: src/Main.kt
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 374
+        placeholder_text: class Omniball
+  - name: test/output.txt
+    visible: false
