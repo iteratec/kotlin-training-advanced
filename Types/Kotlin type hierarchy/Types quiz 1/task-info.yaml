@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "val x: Any = Object()"
+    is_correct: false
+  - text: "val x: Object = StringBuilder()"
+    is_correct: true
+  - text: "val x: Any = Unit"
+    is_correct: false
+  - text: "val x: Any = null"
+    is_correct: true
+files:
+  - name: src/Main.kt
+    visible: true
+local_check: true

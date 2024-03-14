@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Any
+    is_correct: false
+  - text: It won't compile
+    is_correct: false
+  - text: Nothing
+    is_correct: false
+  - text: Nothing?
+    is_correct: true
+files:
+  - name: src/Main.kt
+    visible: true
+local_check: true

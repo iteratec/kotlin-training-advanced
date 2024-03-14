@@ -5,6 +5,7 @@ summary: Kotlin Advanced
 programming_language: Kotlin
 solutions_hidden: true
 content:
+  - Types
   - Coroutines
   - Inline
   - Delegation
