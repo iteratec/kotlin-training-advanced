@@ -69,9 +69,9 @@ val b: Object = String()
 ```
 
 # Nothing
-`Nothing` is a special type, that indicates a value that never exists. You won't encounter `Nothing`
-very often, but it may sometimes appear as a product of type inference. The type closely related
-to `Nothing` is `Nothing?`. The only valid value of `Nothing?` is `null`.
+`Nothing` is a special type, that indicates a value that never exists. You won't encounter `Nothing` very often, but it may sometimes appear as
+a product of type inference. The type closely related to `Nothing` is `Nothing?`. The only valid
+value of `Nothing?` is `null`.
 
 Direct usage of `Nothing` is syntactically allowed, but is almost never needed.
 

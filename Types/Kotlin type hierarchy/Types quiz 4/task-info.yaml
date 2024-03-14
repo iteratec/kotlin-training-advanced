@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "sendEmails()"
+    is_correct: false
+  - text: "sendEmails(Nothing())"
+    is_correct: false
+  - text: "sendEmails(null)"
+    is_correct: true
+  - text: "sendEmails(RuntimeException())"
+    is_correct: false
+files:
+  - name: src/Main.kt
+    visible: true
+local_check: true
