@@ -1,0 +1,16 @@
+type: output
+files:
+  - name: src/Main.kt
+    visible: true
+    placeholders:
+      - offset: 915
+        length: 195
+        placeholder_text: |-
+          @Serializable
+          data class Bisasam(
+              val sound: String
+          )
+          
+          val serializer = Json
+  - name: test/output.txt
+    visible: true

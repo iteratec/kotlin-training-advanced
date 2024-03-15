@@ -1,0 +1,2 @@
+Catched: {"sound":"Bisa","ability":"Vine Whip","generation":1,"pokedexNumber":"#0001"}
+Releasing: Bisasam(sound=Bisa, ability=Vine Whip, generation=1, pokedexNumber=PokedexNumber(number=1))
