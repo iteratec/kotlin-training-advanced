@@ -1,0 +1,2 @@
+Pikachu is at position 4 and has size 2
+Charmander is at position 2 and has size 4
