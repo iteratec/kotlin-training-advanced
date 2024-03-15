@@ -1,0 +1,21 @@
+type: output
+files:
+  - name: src/Main.kt
+    visible: true
+    placeholders:
+      - offset: 1349
+        length: 713
+        placeholder_text: |-
+          @Serializable
+          data class Bisasam(
+              val sound: String = "Bisa",
+              val ability: String = "Vine Whip",
+              val generation: Int = 1,
+              val pokedexNumber: PokedexNumber = PokedexNumber(1)
+          )
+          
+          object PokedexNumberSerializer
+  - name: src/Serializer.kt
+    visible: true
+  - name: test/output.txt
+    visible: true
