@@ -1,0 +1,10 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 36
+        length: 180
+        placeholder_text: // Define unary operators here
+  - name: test/Tests.kt
+    visible: true

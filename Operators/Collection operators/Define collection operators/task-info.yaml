@@ -1,0 +1,10 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 150
+        length: 210
+        placeholder_text: // Define collection operators here
+  - name: test/Tests.kt
+    visible: false
