@@ -1,0 +1,4 @@
+Catched: {"sound":"Bisa","ability":"Vine Whip"}
+Releasing: Bisasam(sound=Bisa, ability=Vine Whip, generation=1)
+Catched: {"sound":"Bisaaa","ability":"Vine Whip"}
+Releasing: Bisasam(sound=Bisaaa, ability=Vine Whip, generation=1)
