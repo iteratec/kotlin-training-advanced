@@ -1,0 +1,10 @@
+fetching data 0
+fetching data 1
+fetching data 2
+fetching data 3
+fetching data 4
+fetching data 5
+fetching data 6
+fetching data 7
+don't need data anymore
+now the data job is canceled

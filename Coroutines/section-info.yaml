@@ -2,8 +2,6 @@ content:
   - Recap
   - Async vs Launch
   - Cancelation of Coroutines
-  - Timeouts
   - Exception-Handling
   - Composing suspend functions
-  - CoroutineScope
   - CoroutineContext and Dispatchers

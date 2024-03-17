@@ -9,11 +9,11 @@ Example:
  - ***launch*** starts a new Coroutines
  - ***delay*** suspends the coroutine for the given amount of miliseconds
  - the second ***println*** will be executed after the coroutine is suspended
- - after the ***delay**** returns, the coroutine will continue and the first ***println*** will be executed.
+ - after the ***delay*** returns, the coroutine will continue and the first ***println*** will be executed.
  - As result we see in the console *Hello Pokemon-World*
 
 
 ## Suspend Functions
 Suspend functions can be used like regular functions inside a coroutine (or other suspend function).
 They can suspend the execution of the enclosing coroutine.
-In this example ***delay*** is a suspend function.
+In example ***delay*** is a suspend function.

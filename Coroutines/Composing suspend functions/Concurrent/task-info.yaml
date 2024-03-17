@@ -1,0 +1,19 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 228
+        length: 31
+        placeholder_text: calculateFirstValue()
+      - offset: 281
+        length: 32
+        placeholder_text: calculateSecondValue()
+      - offset: 346
+        length: 8
+        placeholder_text: ""
+      - offset: 363
+        length: 8
+        placeholder_text: ""
+  - name: test/Tests.kt
+    visible: false

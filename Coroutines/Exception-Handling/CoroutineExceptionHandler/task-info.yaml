@@ -1,0 +1,10 @@
+type: output
+files:
+  - name: src/Main.kt
+    visible: true
+    placeholders:
+      - offset: 111
+        length: 98
+        placeholder_text: TODO()
+  - name: test/output.txt
+    visible: false
