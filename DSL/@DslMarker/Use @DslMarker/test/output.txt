@@ -1,0 +1,1 @@
+Pokemon(name=Pikachu, weight=2, skills=[Skill(name=Electrocute, power=10), Skill(name=Thunderstorm, power=35)])

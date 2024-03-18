@@ -12,5 +12,6 @@ content:
   - Generics
   - Operators
   - Serialization
+  - DSL
 environment_settings:
   jvm_language_level: JDK_1_8

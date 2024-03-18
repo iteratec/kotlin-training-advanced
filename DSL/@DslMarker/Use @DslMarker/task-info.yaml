@@ -1,0 +1,10 @@
+type: output
+files:
+  - name: src/Main.kt
+    visible: true
+    placeholders:
+      - offset: 145
+        length: 6
+        placeholder_text: // Define a DslMarker annotation and apply it in proper places
+  - name: test/output.txt
+    visible: true
