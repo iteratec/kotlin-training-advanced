@@ -7,12 +7,12 @@ solutions_hidden: true
 content:
   - Types
   - Inline
-  - Generics
+  - Delegation
   - Coroutines
   - Flow
-  - Delegation
+  - Generics
   - Operators
-  - Serialization
   - DSL
+  - Serialization
 environment_settings:
   jvm_language_level: JDK_1_8
