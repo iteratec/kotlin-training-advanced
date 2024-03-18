@@ -7,4 +7,4 @@ files:
         length: 110
         placeholder_text: "fun isInfoComplete(/* TODO */): Boolean"
   - name: test/Tests.kt
-    visible: false
+    visible: true

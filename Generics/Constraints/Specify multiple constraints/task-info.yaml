@@ -7,4 +7,4 @@ files:
         length: 374
         placeholder_text: class Omniball
   - name: test/output.txt
-    visible: false
+    visible: true

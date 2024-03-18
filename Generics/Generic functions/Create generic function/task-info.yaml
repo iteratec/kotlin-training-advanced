@@ -7,4 +7,4 @@ files:
         length: 99
         placeholder_text: "fun getHealthiestPokemon() {}"
   - name: test/Tests.kt
-    visible: false
+    visible: true

@@ -7,4 +7,4 @@ files:
         length: 269
         placeholder_text: // Define operators here
   - name: test/Tests.kt
-    visible: false
+    visible: true

@@ -7,4 +7,4 @@ files:
         length: 152
         placeholder_text: class PeacefulPokemon
   - name: test/output.txt
-    visible: false
+    visible: true

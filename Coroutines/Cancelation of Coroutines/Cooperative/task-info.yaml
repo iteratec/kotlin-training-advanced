@@ -7,4 +7,4 @@ files:
         length: 18
         placeholder_text: i < 10
   - name: test/output.txt
-    visible: false
+    visible: true
