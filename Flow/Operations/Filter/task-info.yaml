@@ -3,7 +3,7 @@ files:
   - name: src/Main.kt
     visible: true
     placeholders:
-      - offset: 502
+      - offset: 220
         length: 36
         placeholder_text: ""
   - name: test/output.txt

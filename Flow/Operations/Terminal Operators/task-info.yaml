@@ -3,13 +3,13 @@ files:
   - name: src/Main.kt
     visible: true
     placeholders:
-      - offset: 331
+      - offset: 135
         length: 10
         placeholder_text: ""
-      - offset: 348
+      - offset: 152
         length: 25
         placeholder_text: "collect { println(it) }"
-      - offset: 378
+      - offset: 182
         length: 12
         placeholder_text: ""
   - name: test/output.txt
