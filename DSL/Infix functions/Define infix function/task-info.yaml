@@ -1,0 +1,10 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 83
+        placeholder_text: // Define the infix function "pow" here
+  - name: test/Tests.kt
+    visible: false
