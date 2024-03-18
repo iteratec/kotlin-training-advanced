@@ -1,0 +1,10 @@
+type: output
+files:
+  - name: src/Main.kt
+    visible: true
+    placeholders:
+      - offset: 490
+        length: 11
+        placeholder_text: ""
+  - name: test/output.txt
+    visible: false

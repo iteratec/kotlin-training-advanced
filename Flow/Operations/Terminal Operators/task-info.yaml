@@ -1,0 +1,16 @@
+type: output
+files:
+  - name: src/Main.kt
+    visible: true
+    placeholders:
+      - offset: 331
+        length: 10
+        placeholder_text: ""
+      - offset: 348
+        length: 25
+        placeholder_text: "collect { println(it) }"
+      - offset: 378
+        length: 12
+        placeholder_text: ""
+  - name: test/output.txt
+    visible: false

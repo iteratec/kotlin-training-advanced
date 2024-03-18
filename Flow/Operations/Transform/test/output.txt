@@ -1,0 +1,15 @@
+emit 1
+emit 2
+number 2
+emit 3
+emit 4
+number 4
+emit 5
+emit 6
+number 6
+emit 7
+emit 8
+number 8
+emit 9
+emit 10
+number 10
