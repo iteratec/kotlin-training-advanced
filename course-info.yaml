@@ -8,10 +8,10 @@ content:
   - Types
   - Inline
   - Delegation
+  - Operators
   - Coroutines
   - Flow
   - Generics
-  - Operators
   - DSL
   - Serialization
 environment_settings:
