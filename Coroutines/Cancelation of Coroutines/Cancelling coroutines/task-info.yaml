@@ -10,4 +10,4 @@ files:
         length: 47
         placeholder_text: ""
   - name: test/output.txt
-    visible: false
+    visible: true

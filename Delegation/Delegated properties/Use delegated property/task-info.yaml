@@ -7,4 +7,4 @@ files:
         length: 171
         placeholder_text: "   var name: String"
   - name: test/output.txt
-    visible: false
+    visible: true

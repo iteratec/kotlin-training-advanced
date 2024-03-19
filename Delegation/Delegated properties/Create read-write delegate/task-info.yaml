@@ -7,4 +7,4 @@ files:
         length: 476
         placeholder_text: class AuditedProperty
   - name: test/output.txt
-    visible: false
+    visible: true

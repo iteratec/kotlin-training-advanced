@@ -7,4 +7,4 @@ files:
         length: 98
         placeholder_text: TODO()
   - name: test/output.txt
-    visible: false
+    visible: true

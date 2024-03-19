@@ -7,4 +7,4 @@ files:
         length: 917
         placeholder_text: // Implement your DSL here
   - name: test/output.txt
-    visible: false
+    visible: true

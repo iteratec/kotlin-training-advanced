@@ -7,4 +7,4 @@ files:
         length: 37
         placeholder_text: TODO()
   - name: test/Tests.kt
-    visible: false
+    visible: true

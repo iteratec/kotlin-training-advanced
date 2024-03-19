@@ -1,6 +1,6 @@
 # Inline Classes vs Type Aliases
 
-Both, tools introduce a new type and represent the underlying type.
+Both tools introduce a new type and represent the underlying type.
 Hence, both may be treated as a wrapper.
 
 ## Recap Type Alias

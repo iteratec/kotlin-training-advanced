@@ -7,4 +7,4 @@ files:
         length: 137
         placeholder_text: "fun filterByType(pokemons: List<Pokemon>)"
   - name: test/Tests.kt
-    visible: false
+    visible: true
