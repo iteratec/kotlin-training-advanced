@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: A developer can achieve optimization using the inline keyword as a silver bullet.
+    is_correct: false
+  - text: Closure captures the references to variables of the enclosing scope of a lambda.
+    is_correct: true
+  - text: Closure captures the value to variables of the enclosing scope of a lambda.
+    is_correct: false
+  - text: Closure is a concept with great benefits only.
+    is_correct: false
+  - text: Using the inline keyword thoughtlessly may introduce negative effects.
+    is_correct: true
+files:
+  - name: src/Main.kt
+    visible: true

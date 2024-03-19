@@ -1,0 +1,14 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Kotlins functions are first-class citizens which can take other functions as parameters.
+    is_correct: true
+  - text: These functions are called higher-order functions.
+    is_correct: true
+  - text: The call site is place where the higher-order function is invoked.
+    is_correct: true
+  - text: The inline keyword has an impact on the compilation of high-order functions.
+    is_correct: true
+files:
+  - name: src/Main.kt
+    visible: true

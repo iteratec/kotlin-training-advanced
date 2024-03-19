@@ -1,0 +1,12 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: The keyword noinline is used to control which lambda functions passed as parameter should be inlined on the call site.
+    is_correct: true
+  - text: Using inline functions in the code base should be a no-brainer.
+    is_correct: false
+  - text: Using the inline function has impact on the design of modules and classes.
+    is_correct: true
+files:
+  - name: src/Main.kt
+    visible: true

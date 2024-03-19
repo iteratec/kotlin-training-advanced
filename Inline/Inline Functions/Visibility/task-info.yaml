@@ -1,0 +1,12 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Inline functions have access to all members at any time.
+    is_correct: false
+  - text: The @PublishedApi annotations purpose is to control the member visibility of classes.
+    is_correct: false
+  - text: Inline functions can be private.
+    is_correct: true
+files:
+  - name: src/Main.kt
+    visible: true
